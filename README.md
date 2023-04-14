@@ -21,4 +21,4 @@ My lecture notes for classes I have taken at UCLA can be found in this repositor
 | Stats 100C | Linear Models |
 | Stats 101A | Introduction to Data Analysis and Regression |
 | Stats 101B | Introduction to Design and Analysis of Experiment |
-| STats 101C | Introduction to Statistical Models and Data Mining |
+| Stats 101C | Introduction to Statistical Models and Data Mining |
