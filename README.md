@@ -18,6 +18,7 @@ My lecture notes for classes I have taken at UCLA can be found in this repositor
 | Math 167 | Mathematical Game Theory |
 | Math 170E | Introduction to Probability and Statistics 1: Probability |
 | Math 170S | Introduction to Probability and Statistics 2: Statistics |
+| Stats 20 | Introduction to Statistical Programming with R |
 | Stats 100C | Linear Models |
 | Stats 101A | Introduction to Data Analysis and Regression |
 | Stats 101B | Introduction to Design and Analysis of Experiment |
