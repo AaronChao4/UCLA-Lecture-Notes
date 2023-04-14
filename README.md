@@ -8,3 +8,4 @@ My lecture notes for classes I have taken at UCLA can be found in this repositor
 | Math 132 | Complex Analysis |
 | Math 136 | Partial Differential Equations |
 | Math 167 | Mathematical Game Theory |
+| Math 170E | Introduction to Probability and Statistics 1: Probability |
