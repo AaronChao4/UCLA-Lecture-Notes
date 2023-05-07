@@ -1,4 +1,4 @@
-# UCLA-Lecture-Notes
+# UCLA Lecture Notes
 My lecture notes for classes I have taken at UCLA can be found in this repository. These lecture notes were typed using LaTeX. Note that I haven't uploaded all my lecture notes here yet. This table includes all the math and statistics classes I have taken at UCLA.
 
 | Class  | Name |
